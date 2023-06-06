@@ -9,7 +9,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "pink" #color from the theme settings
-draft: false
+draft = false
 +++
 
 “Durante mucho tiempo pensé que la vida era solo una desesperada carrera por sobrevivir y vencer.
