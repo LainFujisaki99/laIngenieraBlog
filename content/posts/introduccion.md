@@ -19,7 +19,7 @@ Siempre, tenía que sobrevivir el momento.”
 <em> Aquella que arde </em>
 
 ***
-{{<image src="../../img/sel_Lain.gif" alt="Introduccion" position="center" style="border-radius: 8px; width: 500px" >}}
+{{<image src="../../img/Lain.gif" alt="Introduccion" position="center" style="border-radius: 8px; width: 500px" >}}
 ***
 
 **INTRODUCCION**
