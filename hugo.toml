@@ -2,7 +2,13 @@ baseURL = '/'
 languageCode = 'mx-es'
 title = 'La Ingeniera Blog'
 theme = "terminal"
+copyright = "Copyright © 2023, Lain Fujisaki; all rights reserved."
 [params]
+
+  customCSS = ["css/custom.css"]
+
+  copyright = "© Lain Fujisaki"
+
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
