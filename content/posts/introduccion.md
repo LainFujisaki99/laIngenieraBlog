@@ -6,8 +6,8 @@ tags = ["Transgenero", "Programacion", "Ingeneria", "Software", "Identidad"]
 keywords = ["Transgenero", "Programacion", "Ingeneria", "Software", "Identidad"]
 description = ""
 showFullContent = false
-readingTime = false
-hideComments = false
+readingTime = true
+hideComments = true
 color = "pink" #color from the theme settings
 draft = false
 +++

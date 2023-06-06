@@ -17,7 +17,7 @@ copyright = "Copyright © 2023, Lain Fujisaki; all rights reserved."
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # set theme to full screen width
   fullWidthTheme = true
@@ -52,6 +52,6 @@ copyright = "Copyright © 2023, Lain Fujisaki; all rights reserved."
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  TocTitle = "Table of Contents" # default
 
 publishDir = "docs"
