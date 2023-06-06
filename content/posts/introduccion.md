@@ -19,7 +19,7 @@ Siempre, tenía que sobrevivir el momento.”
 <em> Aquella que arde </em>
 
 ***
-{{< image src="/img/sel_Lain.gif" alt="Introduccion" position="center" style="border-radius: 8px; width: 500px" >}}
+{{<image src="../../img/sel_Lain.gif" alt="Introduccion" position="center" style="border-radius: 8px; width: 500px" >}}
 ***
 
 **INTRODUCCION**
@@ -86,7 +86,7 @@ Ese pasillo estrecho hecho de madera a punto de caerse que mi familia llamaba ba
 
 **Un vacío que no podía llenar de otra manera, se llenó entre esa falda vieja y esa playera de la secundaria,** no me parecía bonita esa ropa, no tenía celos de su uniforme o de su vestimenta, no eran bonitos pero me hacían  sentir bien.
 
-{{< image src="/img/fujisaki.gif" alt="Introduccion" position="center" style="border-radius: 8px; width: 500px" >}}
+{{<image src="../../img/fujisaki.gif" alt="Introduccion" position="center" style="border-radius: 8px; width: 500px" >}}
 
 A diferencia de muchos clichés entre otras personas trans, no tenía celos de las mujeres, de la ropa que usaban, de la manera en cómo las tratan, o cómo se sentían. Estoy de acuerdo que me parecían lindas, apropiadas y demás adjetivos positivos, **pero lejos de eso el hecho de ponerme esa falda, andar con ella, verme al espejo, y, sobre todo, el no poder usarla todo el día y el dolor que eso me provocó, me humaniza.**
 
