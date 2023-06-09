@@ -10,7 +10,7 @@ description = ""
 showFullContent = false
 readingTime = true
 hideComments = true
-color = "orange" #color from the theme settings
+color = "pink" #color from the theme settings
 draft = false
 +++
 "I know I need hardly say
@@ -83,6 +83,10 @@ podía complacer estaba creciendo en ella, **y no la culpo, ya sea por mi
 disforia de género o por mi autismo no lograba estar al nivel de los
 demás, no lograba desarrollarme por completo.**
 
+**Y no la culpo...**
+
+{{<image src="../../img/trauma3.jpg" alt="No la culpo" position="center" style="border-radius: 8px; height: 450px" >}}
+
 No tenía lo mismo, no hablaba de lo mismo, no me sentía igual a los
 demás y no era igual a los demás, me sentía lejos del mundo.
 
@@ -98,6 +102,8 @@ salidas.
 ella, y sobre todo esto fue importante para elegir transicionar, así que
 lo tengo que hacer.**
 
+***
+
 No termino de recordar bien, **algunas veces pienso que fue en un parque,
 otras veces pienso que fue en su cuarto, otras veces recuerdo que inicia
 diferente, pero siempre termina con el mismo final.**
@@ -107,6 +113,8 @@ empieza a tocar mi ropa, toca por encima, como pidiendo permiso a una yo
 **incomoda por el contacto físico**, no la retiró porque es mi novia, y se
 supone que es el tipo de cosas que hacen los hombres y las mujeres, pero
 no me siento segura.
+
+{{<image src="../../img/trauma1.jpg" alt="Trauma" position="center" style="border-radius: 8px; height: 450px" >}}
 
 **No me siento bien y no me gusta**, quería seguir hablando con ella,
 hablando de cualquier cosa, **yo simplemente quiero hablar.**
@@ -154,6 +162,8 @@ Ese dia hizo uno en especial:
 "¿Por qué no se violaron al travesti?, si unicamente para eso sirven,
 nadie lo va a reclamar, nadie lo va a pedir"
 
+{{<image src="../../img/trauma2.jpg" alt="Porque dijiste eso papá?" position="center" style="border-radius: 8px; width: 450px" >}}
+
 y esa frase se está quemando en el fondo de mi mente, porque hasta que
 había llegado con Ruby jamás nadie me había visto vestida de chica, y
 aun así me habían violado.
@@ -161,7 +171,7 @@ aun así me habían violado.
 **¿Y qué sentido tenía seguir siendo hombre si de todos modos ya había**
 **ocurrido?**
 
-**¿Y qué sentido tenía no ser una mujer si de todos modos ya lo habían**
+**¿Y qué sentido tenía nohu ser una mujer si de todos modos ya lo habían**
 **hecho?**
 
 **Era mi único propósito y ya lo cumplí, ¿así que sentido tiene todo?, si**
@@ -169,3 +179,5 @@ aun así me habían violado.
 **querer, ¿que sentido tiene seguir siendo hombre?**
 
 **¿Qué sentido tenía seguir viva?**
+
+{{<image src="../../img/trauma4.jpg" alt="Me quiero matar" position="center" style="border-radius: 8px; width: 450px" >}}
